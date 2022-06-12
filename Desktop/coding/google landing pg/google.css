@@ -1,0 +1,42 @@
+/* body{
+    background-color: aqua;
+} */
+.firstdiv{
+    width: 20%;
+    /* background-color: pink; */
+    display: flex;
+    justify-content:space-around;
+    margin-left: 80%;
+}
+.myaccount{
+    background-color: rgb(5, 62, 5);
+    color: aliceblue;
+    text-align: center;
+    width: 30px;
+    height:30px ;
+    border-radius: 60%;
+    padding-top: 5px;
+}
+section{
+    margin-top: 100px;
+    /* background-color:aqua ; */
+    text-align:center ;
+    position: relative;
+    
+}
+
+input{
+    border-radius: 27px;
+    width: 600px;
+    height: 40px;
+    box-shadow: 2px 4px 10px grey;
+    border: none;
+    text-align: center;
+}
+.seconddiv{
+    background-color: rgb(172, 62, 5); 
+    margin:0 ;
+    padding-left: 40%;
+
+    
+}
